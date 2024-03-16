@@ -8,7 +8,7 @@ tags:
 | related:: 
 | year:: 2022 
 | encountered:: 2024-03-15 
-| type:: [[content/Atlas/Maps/Plugin|Plugin]]
+| type:: [[Plugin Map]]
 
 ### Điểm hay
 - Các vault được cài plugin sẽ khởi động cùng hệ thống
