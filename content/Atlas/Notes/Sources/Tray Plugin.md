@@ -4,11 +4,11 @@ draft: false
 tags:
   - note/develop🍃
 ---
-| up:: 
-| related:: 
-| year:: 2022 
-| encountered:: 2024-03-15 
-| type:: [[Plugin Map|Plugin]]
+🔺 up:: [[Vườn Đắng đất (OE)]]
+💞 related:: [[Plugin Map]]
+📅 year:: 2022
+👁️ encountered:: 2024-03-15
+🔠 type:: [[Plugin Map|Plugin]]
 
 ### Điểm hay
 - Các vault được cài plugin sẽ khởi động cùng hệ thống
