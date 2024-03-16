@@ -1,8 +1,16 @@
 ---
-title: Welcome to Quartz
+title: Home
+obsidianUIMode: preview
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+> [!Map]- # Atlas
+> -  [[Sources Map]].
 
-Đây là repo `nammoc.github.io`. Đi tới repo `quartz`: https://nammoc.github.io/quartz/
+> [!Calendar]- # Calendar
+
+> [!Training]- # Efforts
+> > [!Box]+ ### ♻️ Ongoing
+> > -  [[Vườn Đắng đất (OE)]].
+
+
+
