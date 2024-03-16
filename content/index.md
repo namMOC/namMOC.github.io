@@ -3,13 +3,13 @@ title: Home
 obsidianUIMode: preview
 ---
 
-> [!Map]- # Atlas
+> [!Map]- Atlas
 > -  [[Sources Map]].
 
-> [!Calendar]- # Calendar
+> [!Calendar]- Calendar
 
-> [!Training]- # Efforts
-> > [!Box]+ ### ♻️ Ongoing
+> [!Training]- Efforts
+> > [!Box]+ ♻️ Ongoing
 > > -  [[Vườn Đắng đất (OE)]].
 
 
