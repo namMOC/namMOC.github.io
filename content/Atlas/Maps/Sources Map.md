@@ -4,7 +4,7 @@ draft: false
 tags:
   - map
 ---
-| up:: [[index]]
+| up:: [[index|Home]]
 | related:: 
 
 - [[Plugin Map]]
