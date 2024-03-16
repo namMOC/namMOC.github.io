@@ -4,6 +4,6 @@ draft: false
 tags:
   - 
 ---
-up:: 
-related:: 
+| up:: 
+| related:: 
 
