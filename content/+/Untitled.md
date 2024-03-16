@@ -3,9 +3,5 @@ title: Untitled
 draft: false
 tags:
   - note/boat🚤
+  - note/develop🍃
 ---
-
-up:: [[index]]
-related:: 
-
-Something in here
