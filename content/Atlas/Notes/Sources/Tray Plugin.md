@@ -4,8 +4,8 @@ draft: false
 tags:
   - note/develop🍃
 ---
-🔺 up:: [[Vườn Đắng đất (OE)]]
-💞 related:: [[Plugin Map]]
+🔺 up:: [[Sources Map]]
+💞 related:: 
 📅 year:: 2022
 👁️ encountered:: 2024-03-15
 🔠 type:: [[Plugin Map|Plugin]]
