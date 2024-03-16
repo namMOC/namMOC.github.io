@@ -1,8 +1,7 @@
 ---
-title: "<% tp.file.title %>"
-draft: false
+title: Untitled
+draft: true
 tags:
-  - 
 ---
 | up:: | related:: | created:: |
 
