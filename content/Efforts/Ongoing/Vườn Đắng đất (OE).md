@@ -1,8 +1,8 @@
 ---
-title: "Vườn Đắng đất (OE)"
+title: Vườn Đắng đất (OE)
 draft: false
 tags:
-  - 
+  - note/develop🍃
 ---
-🔺up:: [[Tray Plugin]]
-💞related:: [[🦠Untitled]]
+| up:: [[Efforts]]
+| related:: 
