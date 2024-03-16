@@ -4,11 +4,11 @@ draft: false
 tags:
   - note/develop🍃
 ---
-up:: 
-related:: 
-year:: 2022
-encountered:: 2024-03-15
-type:: [[Plugin]]
+| up:: 
+| related:: 
+| year:: 2022 
+| encountered:: 2024-03-15 
+| type:: [[Plugin]] 
 
 ### Điểm hay
 - Các vault được cài plugin sẽ khởi động cùng hệ thống
