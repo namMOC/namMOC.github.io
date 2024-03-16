@@ -5,10 +5,13 @@ tags:
   - note/develop🍃
 URL: obsidian://show-plugin?id=tray
 ---
-
-| up              | related         | year | encountered | type           | URL                                 |
-| --------------- | --------------- | ---- | ----------- | -------------- | ----------------------------------- |
-| [[Sources Map]] | [[Sources Map]] | 2022 | 2024-03-15  | [[Plugin Map]] | https://obsidian.md/plugins?id=tray |
+- Properties
+	- up:: [[Sources Map]]
+	- related:: 
+	- year:: 2022
+	- encountered:: 2024-03-15
+	- type:: [[Plugin Map|Plugin]]
+	- URL:: https://obsidian.md/plugins?id=tray
 
 ### Điểm hay
 - Các vault được cài plugin sẽ khởi động cùng hệ thống
