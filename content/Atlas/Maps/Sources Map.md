@@ -4,7 +4,6 @@ draft: false
 tags:
   - map
 ---
-| up:: [[index|Home]]
-| related:: 
+| up:: [[index|Home]] | related:: |
 
-- [[Plugin Map]]
+- [[Obsidian Plugin]]

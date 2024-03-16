@@ -1,3 +1,1 @@
-| year:: 
-| encountered:: 
-| type:: 
+| year:: | encountered:: | type:: 
