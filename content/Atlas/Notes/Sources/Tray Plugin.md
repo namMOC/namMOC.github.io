@@ -1,6 +1,6 @@
 ---
 title: Tray Plugin
-draft: true
+draft: false
 tags:
   - note/develop🍃
 ---
