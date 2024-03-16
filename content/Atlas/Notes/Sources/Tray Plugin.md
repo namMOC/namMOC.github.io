@@ -6,12 +6,12 @@ tags:
 URL: obsidian://show-plugin?id=tray
 ---
 > [!NOTE]+ Properties
-> | up:: [[Sources Map]]
-> | related:: 
-> | year:: 2022
-> | encountered:: 2024-03-15
-> | type:: [[Plugin Map|Plugin]]
-> | URL:: https://obsidian.md/plugins?id=tray
+> - up:: [[Sources Map]]
+> - related:: 
+> - year:: 2022
+> - encountered:: 2024-03-15
+> - type:: [[Plugin Map|Plugin]]
+> - URL:: https://obsidian.md/plugins?id=tray
 
 ### Điểm hay
 - Các vault được cài plugin sẽ khởi động cùng hệ thống
